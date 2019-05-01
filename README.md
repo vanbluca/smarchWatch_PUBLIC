@@ -7,3 +7,7 @@ I decided sometime last year that I wanted to make a smart watch from scratch. I
 ## For more info on the build process, [click here](https://imgur.com/a/FSBwD3g).
 
 ![smarchWatch](glamourShot.jpg)
+
+
+## Announcement: upcomming PCB kit for just $12 + $1.50 worldwide shipping! 
+This kit includes 1x bare PCB for the watch and 1x PCB for the charger.
